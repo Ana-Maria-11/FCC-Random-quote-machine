@@ -1,0 +1,65 @@
+body {
+    font-family: Lucida Handwriting;
+    background-image: url(https://cdn.shopify.com/s/files/1/1003/7610/products/Wooden_texture_light_wood_Wall_Mural_Wallpaper_a_1400x.jpg?v=1578614228);
+ 
+}
+  
+  #quote-box {
+    width: 500px;
+    height:300px;
+    padding: 50px;
+margin: 0 auto;
+    background-color: #c91a7288;
+    text-shadow: 2px 2px 2px black;
+    background-image: url(https://media.istockphoto.com/id/172183677/photo/handmade-art-paper.jpg?s=612x612&w=0&k=20&c=HdVj-n0X9l5603w_N7kLhwE8JgcF_FmPi9MyYTOQXO0=);
+    box-shadow: 10px 20px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    border: 2px solid #118029;
+   
+  }
+  
+  .quote {
+    text-align: center;
+    color: #cf0f69;
+  }
+  
+  #text {
+    font-size: 20px;
+    margin-bottom: 10px;
+    top:80px;
+  }
+  
+  #author {
+    font-style: italic;
+    font-weight: 900;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+    opacity: 0.8;
+  }
+  
+  button,
+  a {
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: #31139c;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/003/498/169/small/realistic-crumpled-green-paper-texture-background-free-vector.jpg);
+    font-size: 1.2rem;
+    cursor: pointer;
+    border: none;
+    
+  }
+  button:hover,
+  a:hover {
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/013/071/928/small/red-crumpled-paper-texture-background-for-design-wallpaper-for-copy-space-photo.JPG);
+    background-color: #44bd4e;
+  }
+ 
+  
+  
+    
+  
+  
